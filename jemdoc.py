@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |.
+  Page last updated |.
 
   [sourcelink]
   (<a href="|">source</a>)
