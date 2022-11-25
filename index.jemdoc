@@ -6,6 +6,7 @@ Computer Science, University of Iowa
 ~~~
 {}{img_left}{image/hasan_rahman.png}{profile pic}{150px}{185px}{}
 
+== ~~~
 I am a second-year PhD student in the Computer Science at the University of Iowa. 
 My PhD advisor is [https://homepage.divms.uiowa.edu/~guanpli/ Dr. Guanpeng Li].
 I am currently collaborating with Argonne National Laboratory as a research intern, and my supervisor there is [https://www.mcs.anl.gov/~shdi/ Dr. Sheng Di].
@@ -17,7 +18,7 @@ I completed my Undergrad (2015-2019) in Computer Science and Engineering at Bang
 
 - Email: mdhasanur-rahman@uiowa.edu
 - [file/CV.pdf CV]
-~~~
+
 
 == Research Interests
 - HPC Fault Tolerance
