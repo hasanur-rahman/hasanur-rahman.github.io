@@ -1,8 +1,10 @@
 # jemdoc: menu{MENU}{miscellaneous.html}
-= 
+= Miscellaneous
 
 == Activities
 In my free time, I love to write blogs. I also play Soccer, Cricket in regular basis. I follow different sports such as Soccer (especially Europian leagues), Cricket, Tennis. I also love to roam around and do cycling.
 
 == SC 2022
-{}{img_left}{image/miscellaneous/SC22.png}{}{350px}{225px}
+~~~
+{}{img_left}{./image/miscellaneous/SC22.png}{}{350px}{225px}
+My recent attendence in SC'22 conference.
