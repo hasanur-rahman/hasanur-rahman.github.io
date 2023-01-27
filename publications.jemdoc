@@ -14,10 +14,10 @@ _Sabuj Laskar_, Md Hasanur Rahman\*, Bohan Zhang, Guanpeng Li\n
 - TensorFI+: A Scalable Fault Injection Framework for Modern Deep Learning Neural Networks\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Guanpeng Li\n
 *\[ISSRE-W'22\]*\[Fault Tolerance\]: Workshop on Resiliency, Security, Defenses, and Attacks (RSDA) at IEEE International Symposium on Software Reliability Engineering, 2022\n
-\[[publications/ISSREW22_TensorFIPlus.pdf Paper]\] \[[slides/ISSREW22_Presentation_TensorFIPlus.pdf Slides]\] \[[ Video]\] \[[https://github.com/sabuj7177/TensorFIPlus Code]\]\n
+\[[publications/ISSREW22-TensorFIPlus.pdf Paper]\] \[[slides/ISSREW22-Presentation-TensorFIPlus.pdf Slides]\] \[[ Video]\] \[[https://github.com/sabuj7177/TensorFIPlus Code]\]\n
 
 - [ PEPPA-X: finding program test inputs to bound silent data corruption vulnerability in HPC applications]\n
 _Md Hasanur Rahman_, Aabid Shamji, Shengjian Guo, and Guanpeng Li\*\n
 *\[SC'21\]*\[Fault Tolerance\]: International Conference for High Performance Computing, Networking, Storage and Analysis, 2021\n
-\[[publications/SC22_PeppaX.pdf Paper]\] \[[slides/SC22_Presentation_PeppaX.pdf Slides]\] \[[ Video]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
+\[[publications/SC22-PeppaX.pdf Paper]\] \[[slides/SC22-Presentation-PeppaX.pdf Slides]\] \[[ Video]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
 
