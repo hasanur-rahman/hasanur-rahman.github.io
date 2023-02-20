@@ -9,7 +9,7 @@ _Md Hasanur Rahman_, Sheng Di\*, Kai Zhao, Robert Underwood, Guanpeng Li, and Fr
 - Characterizing Deep Learning Neural Network Failures between Algorithmic Inaccuracy and Transient Hardware Faults\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Bohan Zhang, Guanpeng Li\n
 *\[PRDC'22\]*\[Fault Tolerance\]: The 27th IEEE Pacific Rim International Symposium on Dependable Computing, 2022\n
-\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures.pdf Slides]\] \[["https://github.com/sabuj7177/characterizing_DNN_failures" Code]] \[[cites/PRDC22-Characterizing-DNN-failures.bib Cite]\]\n
+\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures.pdf Slides]\] \[[`https://github.com/sabuj7177/characterizing_DNN_failures` Code]] \[[cites/PRDC22-Characterizing-DNN-failures.bib Cite]\]\n
 
 - TensorFI+: A Scalable Fault Injection Framework for Modern Deep Learning Neural Networks\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Guanpeng Li\n
@@ -19,5 +19,5 @@ _Sabuj Laskar_, Md Hasanur Rahman\*, Guanpeng Li\n
 - {{<font color=brown size=+0.5><b>}}PEPPA-X: finding program test inputs to bound silent data corruption vulnerability in HPC applications{{</b></font>}}\n
 _Md Hasanur Rahman_, Aabid Shamji, Shengjian Guo, and Guanpeng Li\*\n
 *\[SC'21\]*\[Fault Tolerance\]: International Conference for High Performance Computing, Networking, Storage and Analysis, 2021\n
-\[[publications/SC22-PeppaX.pdf Paper]\] \[[slides/SC22-Presentation-PeppaX.pdf Slides]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\] \[[SC22-PeppaX.bib Cite]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
+\[[publications/SC22-PeppaX.pdf Paper]\] \[[slides/SC22-Presentation-PeppaX.pdf Slides]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\] \[[cites/SC22-PeppaX.bib Cite]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
 
