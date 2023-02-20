@@ -3,13 +3,13 @@
 
 - {{<font color=brown size=+0.5><b>}}A Feature-Driven Fixed-Ratio Lossy Compression Framework for Real-World Scientific Datasets{{</b></font>}}\n
 _Md Hasanur Rahman_, Sheng Di\*, Kai Zhao, Robert Underwood, Guanpeng Li, and Franck Cappello\n
-*\[ICDE'23\]*\[Data Reduction\]: The 39th IEEE International Conference on Data Engineering, 2023\n
+*\[ICDE'23\]*\[Lossy Compression\]: The 39th IEEE International Conference on Data Engineering, 2023\n
 \[[ Paper]\] \[[ Slides]\] \[[ Code]] \[[ Cite]\]
 
 - Characterizing Deep Learning Neural Network Failures between Algorithmic Inaccuracy and Transient Hardware Faults\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Bohan Zhang, Guanpeng Li\n
 *\[PRDC'22\]*\[Fault Tolerance\]: The 27th IEEE Pacific Rim International Symposium on Dependable Computing, 2022\n
-\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures.pdf Slides]\] \[[https://github.com/sabuj7177/characterizin{\_}DNN{\_}failures Code]] \[[cites/PRDC22-Characterizing-DNN-failures.bib Cite]\]\n
+\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures.pdf Slides]\] \[[https://github.com/sabuj7177/characterizin\\_DNN\\_failures Code]] \[[cites/PRDC22-Characterizing-DNN-failures.bib Cite]\]\n
 
 - TensorFI+: A Scalable Fault Injection Framework for Modern Deep Learning Neural Networks\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Guanpeng Li\n
