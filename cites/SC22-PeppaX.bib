@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3458817.3476147,
+author = {Rahman, Md Hasanur and Shamji, Aabid and Guo, Shengjian and Li, Guanpeng},
+title = {PEPPA-X: Finding Program Test Inputs to Bound Silent Data Corruption Vulnerability in HPC Applications},
+year = {2021},
+isbn = {9781450384421},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3458817.3476147},
+doi = {10.1145/3458817.3476147},
+abstract = {Transient hardware faults have become prevalent due to the shrinking size of transistors, leading to silent data corruptions (SDCs). Therefore, HPC applications need to be evaluated (e.g., via fault injections) and protected to meet the reliability target. In the evaluation, the target programs exercise with a set of given inputs which are usually from program benchmark suite. However, these inputs rarely manifest the SDC vulnerabilities, leading to over-optimistic assessment and unexpectedly higher failure rates in production. We propose Peppa-X, which efficiently identifies the test inputs that estimate the bound of program SDC resiliency. Our key insight is that the SDC sensitivity distribution in a program often remains stationary across input space. Thereby, we can guide the search of SDC-bound inputs by a sampled distribution. Our evaluation shows that Peppa-X can identify the SDC-bound input of a program that existing methods cannot find even with 5x more search time.},
+booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+articleno = {80},
+numpages = {13},
+keywords = {error propagation, program analysis, software testing, input fuzzing, high performance computing, silent data corruption, fault injection, error resilience},
+location = {St. Louis, Missouri},
+series = {SC '21}
+}
