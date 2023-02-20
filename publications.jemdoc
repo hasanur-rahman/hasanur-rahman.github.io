@@ -9,15 +9,15 @@ _Md Hasanur Rahman_, Sheng Di\*, Kai Zhao, Robert Underwood, Guanpeng Li, and Fr
 - Characterizing Deep Learning Neural Network Failures between Algorithmic Inaccuracy and Transient Hardware Faults\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Bohan Zhang, Guanpeng Li\n
 *\[PRDC'22\]*\[Fault Tolerance\]: The 27th IEEE Pacific Rim International Symposium on Dependable Computing, 2022\n
-\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures Slides]\] \[[https://github.com/sabuj7177/characterizing_DNN_failures Code]] \[[http://bit.ly/417qnrC Cite]\]\n
+\[[publications/PRDC22-Characterizing-DNN-Failures-Between-Algorithmic-Inaccuracy-and-Transient-Hardware-Faults.pdf Paper]\] \[[slides/PRDC22-Presentation-Characterizing-DNN-Failures.pdf Slides]\] \[[https://github.com/sabuj7177/characterizing\_DNN\_failures Code]] \[[https://scholar.googleusercontent.com/scholar.bib?q=info:GSZ_7O4kTa4J:scholar.google.com/&output=citation&scisdr=CgW-5iK8EKa4iWzV-v4:AAGBfm0AAAAAY_LT4v4knYyxwucI-QQh8Xi9z64ck0At&scisig=AAGBfm0AAAAAY_LT4mI_FhMBWdPIOXyNSEA42EYsBDlG&scisf=4&ct=citation&cd=0&hl=en Cite]\]\n
 
 - TensorFI+: A Scalable Fault Injection Framework for Modern Deep Learning Neural Networks\n
 _Sabuj Laskar_, Md Hasanur Rahman\*, Guanpeng Li\n
 *\[ISSRE-W'22\]*\[Fault Tolerance\]: Workshop on Resiliency, Security, Defenses, and Attacks (RSDA) at IEEE International Symposium on Software Reliability Engineering, 2022\n
-\[[publications/ISSREW22-TensorFIPlus.pdf Paper]\] \[[slides/ISSREW22-Presentation-TensorFIPlus.pdf Slides]\] \[[https://github.com/sabuj7177/TensorFIPlus Code]\] \[[http://bit.ly/3I5S0so Cite]\]\n
+\[[publications/ISSREW22-TensorFIPlus.pdf Paper]\] \[[slides/ISSREW22-Presentation-TensorFIPlus.pdf Slides]\] \[[https://github.com/sabuj7177/TensorFIPlus Code]\] \[[https://scholar.googleusercontent.com/scholar.bib?q=info:WkQo2vleCRIJ:scholar.google.com/&output=citation&scisdr=CgW-5iK8EKa4iWzXFtE:AAGBfm0AAAAAY_LRDtE2sfqPmhorJTRZj0QFrYd6H3FN&scisig=AAGBfm0AAAAAY_LRDrrFM6gr07bGsJQZuNbGshYwudMY&scisf=4&ct=citation&cd=0&hl=en Cite]\]\n
 
 - [ PEPPA-X: finding program test inputs to bound silent data corruption vulnerability in HPC applications]\n
 _Md Hasanur Rahman_, Aabid Shamji, Shengjian Guo, and Guanpeng Li\*\n
 *\[SC'21\]*\[Fault Tolerance\]: International Conference for High Performance Computing, Networking, Storage and Analysis, 2021\n
-\[[publications/SC22-PeppaX.pdf Paper]\] \[[slides/SC22-Presentation-PeppaX.pdf Slides]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\] \[[http://bit.ly/3lQldjL Cite]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
+\[[publications/SC22-PeppaX.pdf Paper]\] \[[slides/SC22-Presentation-PeppaX.pdf Slides]\] \[[https://github.com/hasanur-rahman/Peppa-X Code]\] \[[https://scholar.googleusercontent.com/scholar.bib?q=info:1HY97zPuYiMJ:scholar.google.com/&output=citation&scisdr=CgW-5iK8EKa4iWzV0uQ:AAGBfm0AAAAAY_LTyuSjmvFltE2xX9gCbxtEwGuu8gzs&scisig=AAGBfm0AAAAAY_LTypw4THZjke9obei8M-V1PEYbinBz&scisf=4&ct=citation&cd=0&hl=en Cite]\]\n{{<font color=red size=+0.5><b>}} Received all three artifacts badges {{</b></font>}}
 
